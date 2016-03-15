@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string-array name="titles">
+        <item>Lorem Ipsum is simply dummy text.</item>
+        <item>It is a long established fact.</item>
+        <item>There are many variations of passages.</item>
+        <item>Richard McClintoc.</item>
+        <item>It uses a dictionary of over 200 Latin words.</item>
+        <item> over 200 Latin words </item>
+        <item>This book is a treatise</item>
+        <item> comes from a line</item>
+    </string-array>
+
+
+    <string-array name="descriptions">
+        <item>filter is unique gun for working with anything.</item>
+        <item>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
+        <item>Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</item>
+        <item>"Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</item>
+        <item>to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</item>
+        <item>eTXT is an immediate, quick, cost effective and simple way to reach your staff, suppliers and customers - straight to their text capable mobile phone.</item>
+        <item>eTXT is an internet service run by Bulletin Wireless that provides SMS messaging services from your email or web browser</item>
+        <item>eTXT combines the power of email and text to provide you with a cost effective and simple way to contact the people who matter, right to their mobile.</item>
+    </string-array>
+    <string name="title_activity_transportation">TransportationActivity</string>
+    <string name="title_activity_hotels">HotelsActivity</string>
+</resources>
