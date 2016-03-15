@@ -65,6 +65,10 @@ public class VivzAdapter extends BaseAdapter {
         return row;
     }
 
+    @Override
+    public int getItemViewType(int position) {
+        return super.getItemViewType(position);
+    }
 }
 
 
